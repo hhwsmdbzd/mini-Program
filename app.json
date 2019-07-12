@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTitleText": "SZU心理咨询",
+    "navigationBarTextStyle": "black",
+  },
+  "sitemapLocation": "sitemap.json"
+}
