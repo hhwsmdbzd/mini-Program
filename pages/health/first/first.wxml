@@ -1,0 +1,31 @@
+<view class="page__bd">
+  <view class="weui-article">
+    <view class="weui-article__section">
+      <view class="weui-article__h1">卷首</view>
+
+      <view class="weui-article__h3">生活中你是否遇到过这样的情况。</view>
+      <view class="weui-article__p">----------------------------</view>
+      <view class="weui-article__p">快餐店做活动，你收到了很多优惠券，为了不浪费，你去那里大吃了一顿。</view>
+      <view class="weui-article__p">和同学组队做作业，要一起完成什么任务总是没有人积极响应，整个团队效率低下。</view>
+      <view class="weui-article__p">经历了一两次失败之后，你对某件事情彻底丧失了信心，觉得自己不可能把它做好了，陷入了绝望和无助。</view>
+
+      <view class="weui-article__section">
+        <view class="weui-article__p">--------------------------</view>
+        <view class="weui-article__h3">你中枪了吗？</view>
+        <view class="weui-article__p"> </view>
+        <view class="weui-article__p">那你有问过自己“为什么会这样吗？”</view>
+        <view class="weui-article__p">---------------------------</view>
+        <view class="weui-article__h3">如果你对这些感到好奇，那这个专栏就是专门为你设计的。</view>
+
+        <view class="weui-article__p">在生活中，很多司空见惯的现象和行为，我们之所以麻木，是因为我们没有去了解过背后的发生机制，更别提去改变那些不好的地方了。但从现在起我们可以不再盲目地生活，而是通过“心理学”这第三只眼睛，去观察自己的生活，洞悉世界和人性的规律。从而让自己过上更加高质量的生活，让团队的效率提到更高的水平。</view>
+
+        <view class="weui-article__h3">那就先从了解“人类经典的十大心理效应”开始吧。</view>
+        <view class="weui-article__p">如果你不了解这些规律，就难免会掉入各种常见的“陷阱”，而当你掌握了它们，就能规避不必要的错误，减少浪费不必要的时间和精力。</view>
+
+        <view class="weui-article__p">这个专栏，除去卷首，共五篇文章，一篇给你讲解两个心理学效应，并且通过生动鲜活的例子，让你更加深入地理解这些效应，并且学习应用。</view>
+
+        <view class="weui-article__h3">话不多说，让我们马上开启学习的旅程吧，祝你在这里有所收获，有所成长。</view>
+      </view>
+    </view>
+  </view>
+</view>

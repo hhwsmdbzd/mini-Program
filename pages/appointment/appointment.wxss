@@ -1,0 +1,86 @@
+/* pages/appointment/appointment.wxss */
+
+.apm{
+  width: 100%;
+  height: 100%;
+}
+.sheet{
+  margin-bottom: 20px; 
+}
+.line_row{
+  height: 20px;
+  display: flex;
+  background-color: #ffffff;
+}
+.row1{
+  width: 50px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.row2{
+  width: 50px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bigrow{
+  height: 30px;
+  width: 50px;
+  display: block;
+  justify-content: center;
+  text-align: center;
+}
+.row3{
+  height: 45px;
+  width: 50px;
+  display: block;
+  justify-content: flex-start;
+}
+.section{
+  width: 100%;
+  height: 50px;
+  position:absolute;
+}
+.date{
+  bottom: 40px;
+}
+.time{
+  bottom: 10px;
+}
+.btn{
+  width: 70px;
+  height: 40px;
+  bottom: 10px;
+  right: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background-color: #ffebcd;
+}
+
+.green{
+  background-color: #b5eea9;
+}
+.red{
+  background-color: #fc0000;
+}
+.bottom{
+  position: absolute;
+  
+  border: none;
+  outline: none;
+  color: #000000;
+  font-size: 16px;
+  border-style: none;
+  border-radius: 0;
+  background-color: #ffebcd;
+}
+.button::after{
+  border: 0;
+}
+.test{
+  background-color: #c1eee6;
+
+}

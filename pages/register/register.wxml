@@ -1,0 +1,96 @@
+<form bindsubmit="formSubmit" bindreset="formReset">
+  <view class="page__hd">
+
+    <view class="weui-cell">
+      <view class="weui-cell__hd">
+        <view class="weui-label">姓名</view>
+      </view>
+      <view class="weui-cell__bd">
+        <input name="sdName" type="text" class="weui-input" placeholder="请输入姓名" maxlength="4" bindinput="bindKeyInput" />
+      </view>
+    </view>
+
+    <view class="weui-cell">
+      <view class="weui-cell__hd">
+        <view class="weui-label">性别</view>
+      </view>
+
+      <radio-group name="sdSex">
+        <label>
+          <radio value="male">男</radio>
+        </label>
+        <label>
+          <radio value="female">女</radio>
+        </label>
+      </radio-group>
+    </view>
+
+    <view class="weui-cell">
+      <view class="weui-cell__hd">
+        <view class="weui-label">学院</view>
+      </view>
+      <view class="weui-cell__bd">
+        <picker bindchange="collagePick" value="{{index}}" range="{{collage}}" name='sdcollage'>
+        <view>{{collage[index]}}</view>
+        </picker>
+        <!-- <input type="text" name="sdCollege" class="weui-input" placeholder="请输入学院" maxlength="10" bindinput="bindKeyInput" /> -->
+      </view>
+    </view>
+
+    <view class="weui-cell">
+      <view class="weui-cell__hd">
+        <view class="weui-label">学号</view>
+      </view>
+      <view class="weui-cell__bd">
+        <input type="number" name="sdNumber" class="weui-input" placeholder="请输入学号" maxlength="10" bindinput="bindKeyInput" />
+      </view>
+    </view>
+
+    <view class="weui-cell">
+      <view class="weui-cell__hd">
+        <view class="weui-label">联系方式</view>
+      </view>
+      <view class="weui-cell__bd">
+        <input type="number" name="sdTel" class="weui-input" placeholder="请输入联系方式" maxlength="11" bindinput="bindKeyInput" />
+      </view>
+    </view>
+  </view>
+
+  <view class="weui-cell">
+    <view class="weui-cell__hd">
+      <view class="weui-label">你的困扰是：</view>
+    </view>
+  </view>
+
+  <view class="weui-cell">
+    <view wx:for="{{confuse}}" wx:key="{{index}}">
+      <view data-index="{{index}}" bindtap="confuseClick">
+        <button name="confuseChoise" class='confuse {{item.checked ? "active":""}}'> {{item.name}} </button>
+      </view>
+    </view>
+  </view>
+
+  <view class="weui-cells weui-cells_after-title">
+    <view class="weui-cell">
+      <view class="weui-cell__bd">
+        <textarea type="text" name="otherConfuse" class="weui-textarea" placeholder="其他 请输入" style="height: 3.3em" />
+        <view class="weui-textarea-counter">0/200</view>
+      </view>
+    </view>
+  </view>
+
+  <view class="weui-cell weui-cell__hd">你希望通过辅导获得：</view>
+  <view class="weui-cells weui-cells_after-title">
+    <view class="weui-cell">
+      <view class="weui-cell__bd">
+        <textarea type="text" name="wantToGet" class="weui-textarea" placeholder="请输入" style="height: 3.3em" />
+        <view class="weui-textarea-counter">0/200</view>
+      </view>
+    </view>
+  </view>
+
+  <view class="submit-btn">
+    <button form-type="reset" bindtap="toReturn">返回</button>
+    <button form-type="submit" bindtap="toSuccess">提交</button>
+  </view>
+</form>

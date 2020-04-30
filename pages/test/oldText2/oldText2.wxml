@@ -1,0 +1,37 @@
+<image class="backgroundimg" src="https://7879-xyl-1259811271.tcb.qcloud.la/apm/oldtext_bg.png?sign=220cf2d6d4914ee657d1ce924605a337&t=1567135537"></image>
+<view class="bgsize">
+  <view class="time">
+    <text>{{time}}</text>
+  </view>
+
+  <view bindtap="select" class="white">
+    <progress percent="{{pro}}" show-info></progress>
+  </view>
+
+  <view class="outer">
+    <view id='questions'>{{index+1}}.{{title[index]}}</view>
+
+    <view id="answers">
+      <radio-group bindchange='select'>
+        <view class="item">
+          <radio value="{{radio[0]}}" checked="{{clear}}">
+            <text decode="{{true}}">&nbsp;{{choise[index][radio[0]]}}</text>
+          </radio>
+        </view>
+
+        <view class="item">
+          <radio value="{{radio[1]}}" checked="{{clear}}">
+            <text decode="{{true}}">&nbsp;{{choise[index][radio[1]]}}</text>
+          </radio>
+        </view>
+
+        <view class="item">
+          <radio value="{{radio[2]}}" checked="{{clear}}">
+            <text decode="{{true}}">&nbsp;{{choise[index][radio[2]]}}</text>
+          </radio>
+        </view>
+      </radio-group>
+    </view>
+  </view>
+
+</view>

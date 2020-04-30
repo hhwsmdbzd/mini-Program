@@ -1,0 +1,59 @@
+<view class="page__bd">
+  <view class="weui-article">
+    <view class="weui-article__section">
+      <view class="weui-article__h1">鸟笼效应</view>
+      <view class="weui-article__h3">你是否有着这样的经历？</view>
+      <view class="weui-article__p">点外卖的时候，本来想吃的东西很少，但为了用掉赠送的满减券而拼命凑单，点了一堆根本吃不完的东西。细心的话，你还会发现，自己为这次不愉快的体验白白花费几十块，还根本体会不到所谓的“优惠”。</view>
+      <view class="weui-article__p">为什么会出现这样的情况？你可能会认为这就是贪小便宜的心理在作怪，</view>
+      <view class="weui-article__h3">但背后其实是一个非常经典的心理学效应在发生作用：鸟笼效应。</view>
+      <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567764577996&di=8e09e224525c21d845e8c0097e7f5382&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn20117%2F151%2Fw640h311%2F20190815%2Ff969-ichcymv5500129.jpg" mode="widthFix"></image>
+      <view class="weui-article__p">---------------------------</view>
+      <view class="weui-article__h3">什么叫“鸟笼效应”。不妨先听一个故事。</view>
+      <view class="weui-article__p">1907年，哈佛大学退休老师詹姆斯跟他的好朋友——物理学家卡尔森打赌说，他一定会让卡尔森养上一只鸟。卡尔森不以为然。结果，卡尔森生日的时候，收到詹姆斯的礼物，就是一个鸟笼。</view>
+      <view class="weui-article__p">卡尔森笑：“你别费劲了，它对我而言就是个工艺品。”</view>
+      <view class="weui-article__p">几天后，陆陆续续有客人来卡尔森家里拜访，当他们看到空空荡荡的鸟笼时，都不约而同地问：“你是不是养死过一只鸟”。</view>
+      <image src="https://7879-xyl-1259811271.tcb.qcloud.la/apm/birdcage.png?sign=eb64197196be4272af2814e3496dd710&t=1567756557" mode="widthFix"></image>
+
+      <view class="weui-aritcle__p">卡尔森解释说：“我压根就没养过一只鸟”。</view>
+      <view class="weui-aritcle__p">然而，这样的回答并没有让客人们全然信服，以后每次家里来客人，卡儿森都会被这么问。卡尔森感觉烦恼和无力。最终，出于无奈，卡尔森还是养了一只鸟。“鸟笼效应”就这样奏效了。</view>
+      <view class="weui-article__p">---------------------------</view>
+      <view class="weui-article__h3">“鸟笼效应”指人们在偶然获得一样东西时，会不知不觉地增加其他不必要的东西。</view>
+      <view class="weui-article__p">这种例子在营销上十分常见。精明的商家往往就会利用人们的这一点心理，举办各种各样的促销满减活动，如果这时候按捺不住囤货的冲动，就会买回许多根本不需要的东西。</view>
+      <view class="weui-article__p">想要不再被非理性牵着鼻子走，就需要学会识别“鸟笼”，那些意外获得的，让你忍不住把它去兑换或添加点什么东西的，就是“鸟笼”。 而你本来就不需要它。
+      </view>
+      <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567766790905&di=c121b2a703a23090da7ad091f13a76c8&imgtype=0&src=http%3A%2F%2Fimg3.doubanio.com%2Fview%2Fnote%2Fl%2Fpublic%2Fp45364770.jpg" mode="widthFix"></image>
+    </view>
+  </view>
+
+  <view class="weui-article">
+    <view class="weui-article__section">
+      <view class="weui-article__h1">罗森塔尔效应</view>
+      <view class="weui-article__p">在你的生命中，谁是那个对你影响最大的人？</view>
+      <view class="weui-article__p">是父母，老师，还是某一个明星，名人？</view>
+      <view class="weui-article__p">如果你还没有答案，可以慢慢地寻找，但是，不要小瞧这么一个问题。</view>
+      <view class="weui-article__h3">在美国，有18个孩子，曾经就因为别人的期待和影响，而让自己的学习和生活发生“奇迹般”的转变。</view>
+      <view class="weui-article__p">这是心理学家罗森塔尔1968年做的一个实验，他和L.雅各布森到了一所学校，一到六年级每个年级抽取三个班，总共十八个，在这些班上进行“未来发展趋势测试”，并且在测试之后，将结果交给了校长，告诉他，这里有18个学生未来非常具有发展前途，要好好对待。</view>
+      <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567778091829&di=ec93d846729ad97e9101114a152c9a76&imgtype=0&src=http%3A%2F%2Fs6.sinaimg.cn%2Fmw690%2F001IpDt1zy7dfKT6ntP55" mode="widthFix"></image>
+      <view class="weui-article__p">其实，罗森塔尔撒了一个“权威性谎言”，这18个学生，都是随机抽取出来的。</view>
+      <view class="weui-article__p">在8个月之后，罗森塔尔和雅各布再次来到这所学校，他们再次对18个班的同学进行测试，</view>
+      <view class="weui-article__p">奇迹发生了，凡是当时在名单上同学，个个成绩都有了很大进步，而且变得更加自信，活泼开朗，且更加乐于和别人交际。</view>
+      <view class="weui-article__p">有没有感觉很神奇？</view>
+      <view class="weui-article__p">这是奇迹吗？没学心理学之前，你会说是，
+        <view class="weui-article__h3">但是学习了“罗森塔尔效应”之后，你会明白，发生改变的关键，不在学生，而在于老师和校长，</view>
+        <view class="weui-article__p">当他们相信了这18个学生就是“天选之子”的时候，都会在教学上继续这些学生更多的关注，更多的赞许，有意无意地降更高的期待传递给学生。学生更加积极地回应老师，老师又更加热情地投入。</view>
+      </view>
+      <view class="weui-article__p">慢慢地，学生的成长就会向老师期待的方向靠拢，逐渐在各方面有突出的表现。</view>
+      <view class="weui-article__p">这就是权威期待的力量。</view>
+      <view class="weui-article__p">---------------------------</view>
+      <view class="weui-article__h3">罗森塔尔效应，又被称为皮格马利翁效应，</view>
+      <view class="weui-article__p">一部表现这个效应的经典电影《窈窕淑女》，讲的就是一个普通下层阶级卖花女，被一个语言学教授改造成一个上流社会贵妇，实现人生“逆袭”的故事。</view>
+
+      <image src="https://7879-xyl-1259811271.tcb.qcloud.la/apm/luosentaer.jpg?sign=68531586525f7edd7f8052c9e7d6107f&t=1567768722" mode="widthFix"></image>
+      <view class="weui-article__p">现在，你可以回首自己的生命，回首曾经走过的路，你的成长中，有没有一个人，在你困难的时候支持着你、在你迷茫的时候引领着你，在你自卑的时候提醒你，你是值得的，你是优秀的。有没有一个人，你对他充满了敬意和感激。</view>
+      <view class="weui-article__p">如果回首过去并没有带给你收获，那从现在起，你可以去寻找自己的人生导师，寻找自己钦佩的，想成为的人，去追随他。
+        <view class="weui-article__h3">让权威期待的力量变成成长中的加速度，为你服务，更快地接近自己的梦想。</view>
+      </view>
+      <view class="weui-article__p">今天的学习就到这里，我们下一篇文章再见。</view>
+    </view>
+  </view>
+</view>

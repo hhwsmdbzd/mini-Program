@@ -9,11 +9,20 @@
 		"postcss": true,
 		"minified": true,
 		"newFeature": true,
-		"autoAudits": false,
-		"coverView": true
+		"coverView": true,
+		"autoAudits": true,
+		"uglifyFileName": true,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.0.4",
+	"libVersion": "2.8.0",
 	"appid": "wxf492c7b3631483bd",
 	"projectname": "SZU%E5%BF%83%E7%90%86%E5%92%A8%E8%AF%A2%E9%A2%84%E7%BA%A6",
 	"debugOptions": {

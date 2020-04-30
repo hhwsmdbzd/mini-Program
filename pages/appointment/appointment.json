@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "date-picker": "plugin://myPlugin/date-picker"
+  },
+  "navigationBarTitleText": "选择预约时间",
+  "navigationBarBackgroundColor":"#c1eee6",
+  "disableScroll": true
+  }

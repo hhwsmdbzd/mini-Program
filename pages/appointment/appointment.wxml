@@ -1,0 +1,72 @@
+<date-picker startTime="{{startTime}}" endTime="{{endTime}}" unit="{{unit}}" reserveUnit="{{reserveUnit}}" unreserveTime="{{unreserveTime}}" activedConst="{{activedConst}}" themeColor="#1078aa" disabledConst="{{disabledConst}}" bind:selectTime="onSelectTime"
+/>
+
+<view class="msg">当前选择：</view>
+<view>{{startTimeText}}——{{endTimeText}}</view>
+<view class="msg">注：中午12:00-14:00不接受预约！</view>
+
+<view class="weui-flex">
+  <button class="weui-flex__item bottom" style="left:1%;bottom: 5%;" open-type="contact">联系我们</button>
+  <button class="weui-flex__item bottom" style="left:28%;bottom:5%" bindtap="callus">电话咨询</button>
+  <button class="weui-flex__item bottom" style="left:55%;bottom:5%" bindtap="toMyApm">我的预约</button>
+  <button class="weui-flex__item bottom" style="left:81%;bottom:5%" bindtap="toRegister">确定</button>
+</view>
+
+
+
+<!--
+<view class="apm">
+  <view class="apm sheet">
+    <view class="line_row" style="flex-direction:row;">
+       <view class="row1 green">    </view>
+       <view class="row1 green">周一</view>
+       <view class="row1 green">周二</view>
+       <view class="row1 green">周三</view>
+       <view class="row1 green">周四</view>
+       <view class="row1 green">周五</view>
+       <view class="row1 green">周六</view>
+       <view class="row1 green">周日</view>
+    </view>
+    
+    <view class="line_row" style="flex-direction:row;">
+       <view class="row2 green">  </view>
+       <view class="row2 green">12</view>
+       <view class="row2 green">13</view>
+       <view class="row2 green">14</view>
+       <view class="row2 green">15</view>
+       <view class="row2 green">16</view>
+       <view class="row2 green">17</view>
+       <view class="row2 green">18</view>
+    </view>
+
+    <view class="bigrow">
+      <view class="row3 green">1</view>
+      <view class="row3 green">2</view>
+      <view class="row3 green">3</view>
+      <view class="row3 green">4</view>
+      <view class="row3 green">5</view>
+      <view class="row3 green">6</view>
+      <view class="row3 green">7</view>
+      <view class="row3 green">8</view>
+      <view class="row3 green">9</view>
+      <view class="row3 green">10</view>
+      <view class="row3 green">11</view>
+      <view class="row3 green">12</view>
+    </view>
+
+
+    <view class="section date">
+     <picker mode="date" value="{{date}}" start="2019-08-12" end="2019-09-12" bindchange="bindDateChange" >
+       <view class="picker">当前选择: {{date}}</view>
+     </picker>
+    </view>
+
+    <view class="section time">
+     <picker mode="time" value="{{time}}" start="08:30" end="22:00" bindchange="bindTimeChange" >
+       <view class="picker">当前选择: {{time}}</view>
+     </picker>
+    </view>
+
+    
+  </view>
+</view>-->

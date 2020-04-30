@@ -1,0 +1,54 @@
+<view class="page__bd">
+  <view class="weui-article">
+    <view class="weui-article__section">
+      <view class="weui-article__h1">人类十大经典心理学效应（二）</view>
+      <view class="weui-article__p">这是专栏的第二篇文章，我们继续来学习两个经典的心理学效应，在团队管理中非常的实用，分别是破窗效应和责任分散效应。</view>
+      <view class="weui-article__h1">破窗效应</view>
+      <view class="weui-article__p">在讲什么是破窗效应之前，我们先讲个故事。</view>
+      <view class="weui-article__p">美国心理学家菲利普·辛巴杜于1969年进行了一项实验。他找来两辆一模一样的汽车，把其中的一辆停在加州帕洛阿尔托的中产阶级社区，而另一辆停在相对杂乱的纽约布朗克斯区。</view>
+      <view class="weui-article__p">停在布朗克斯的那辆，他把车牌摘掉，把顶棚打开，结果当天就被偷走了。而放在帕洛阿尔托的那一辆，一个星期也无人理睬。</view>
+      <view class="weui-article__p">后来，辛巴杜做的事情是：他用锤子把那辆车的玻璃敲了个大洞。</view>
+      <view class="weui-article__p">结果仅仅过了几个小时，它就不见了。</view>
+      <view class="weui-article__p">---------------------------</view>
+      <view class="weui-article__p">这个故事里，车窗被打破后被偷走，便是破窗效应的一个体现。他指的是，
+        <view class="weui-article__h3">假如环境中的不良现象被放任存在，会诱使人们效仿，甚至变本加厉。</view>
+        <view class="weui-article__p">这是环境带来的一种心理暗示，开启了第一扇“破窗”后没及时补救，便会每况愈下，出现第二扇”，“第三扇”破窗。</view>
+      </view>
+      <view class="weui-article__p">这个效应一般应用于集体中。集体中如果存在一些人，懈怠工作，进度慢，并在其他人面前表现出来却没有受到惩罚，那就会像多米诺骨牌一样，让越来越多的人效仿他的行为，从而使团队的效率走向下坡路。</view>
+      <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567778106784&di=50ac8b8df6e8e0f596de3d6ce74c0c70&imgtype=0&src=http%3A%2F%2Fa.vpimg4.com%2Fupload%2Fmerchandise%2F393612%2FYHG-YSH-7385-2.jpg" mode="widthFix"></image>
+      <view class="weui-article__p">因此破窗效应的解决方法一般都是
+        <view class="weui-article__h3">在事情出现苗头时掐断。在被“效仿”之前解决，阻止“破窗”越来越多，后果越来越严重。</view>
+      </view>
+
+
+      <view class="weui-article__section">
+      <view class="weui-article__p">----------------------------------</view>
+        <view class="weui-article__h1">责任分散效应</view>
+        <view class="weui-article__p">大家都听过三个和尚的故事，一个和尚打水喝，两个和尚挑水喝，三个和尚没水喝。这个故事是责任分散效应的直观体现。</view>
+        <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567778117383&di=ed565cd023f8c684f5041870bb4d90b5&imgtype=0&src=http%3A%2F%2Fpic2.zhimg.com%2Fv2-63d4a3c064f9dac8a222320c8b0532e9_b.jpg" mode="widthFix"></image>
+        <view class="weui-article__p">----------------------------------</view>
+        <view class="weui-article__p">什么是责任分散效应?它指的是，
+          <view class="weui-article__h3">一个人完成任务时，独立承担责任，责任感较强；多个人完成任务时，群体里的每个人都想要别人多承担点责任，相应责任感较弱。</view>
+        </view>
+        <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567778124735&di=7c0d204c6499b6408985f886e05591c2&imgtype=0&src=http%3A%2F%2Fwww.wenjuan.com%2Fstatic%2Fproject%2Fproj_5714c352a320fcabad52c9e2%2Fimg%2Fd4bcde96-0557-11e6-a23c-44a8420c559c.jpg"
+          mode="widthFix"></image>
+          <view class="weui-article__p">----------------------------------</view>
+        <view class="weui-article__p">在这里我们可以举个和各位学习生活相关的例子。</view>
+        <view class="weui-article__p">我们每个人都曾经完成小组任务，而这个任务总是需要成员通力合作才能最后解决的。但有时候会遇到一些“不干事”的小组成员。总是吊儿锒铛无所事事，最后“混得”一个成绩。这种时候你会怎么做呢？</view>
+        <view class="weui-article__p">如果我们知道这是责任分散效应，那我们可以从定义入手。“一个人完成任务时，责任心较强”。那我们可以设法让这个人完成
+          <view class="weui-article__h3">只有他一人完成的任务，</view>
+          <view class="weui-article__p">或者让这个人成为某个部分的负责人。当他承担的责任较大时，便不会“浑水摸鱼”，因为这个事情完不成，面对的可能是整个小组的怒火，这种情况下他也只能“乖乖就范”。</view>
+        </view>
+        <view class="weui-article__p">----------------------------------</view>
+        <view class="weui-article__p">文章的最后给大家留一个问题:
+          <view class="weui-article__h3">刚刚讨论的案例中，小组里“浑水摸鱼”的只有一个人，如果小组不止一个人“浑水摸鱼”，那应该怎么办呢？</view>
+        </view>
+        <view class="weui-article__p">让我们把解密的部分放到下一篇文章。</view>
+        <view class="weui-article__p">今天学习的两个效应都可以灵活地运用到团队管理中“
+          <view class="weui-article__h3">对于团队中出现的错误，要及时补救，防止“破窗效应”；对于团队里的懈怠、停滞的现象，要让责任的归属更加地明确，集中。</view>
+        </view>
+        <view class="weui-article__p">今天的学习就到这里了，感谢你的加入，我们下一篇再见。</view>
+      </view>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,8 @@
+<view class="page">
+  <view class="title">
+    <view>恭喜你完成测试！</view>
+  </view>
+
+  <button class="re-btn" bindtap="result">点击查看测试结果</button>
+  <view class="retext">{{result[old]}}</view>
+</view>

@@ -1,0 +1,7 @@
+<image class="background" src="https://7879-xyl-1259811271.tcb.qcloud.la/apm/background.png?sign=a3f7230c1bcd3b2b03f09d6c7236ad64&t=1566998435" ></image>
+<image class="stick"  src="https://7879-xyl-1259811271.tcb.qcloud.la/apm/stick.png?sign=a673ea13453f2a4c1994491af784e15a&t=1566998660" ></image>
+<view class="buttonGroup">
+  <image src="https://7879-xyl-1259811271.tcb.qcloud.la/apm/board1.png?sign=35581110491eecc1e8d53c11dc42366e&t=1566998614" mode="scallToFill" bindtap="ask" class="button apm1"></image>
+  <image src="https://7879-xyl-1259811271.tcb.qcloud.la/apm/board2.png?sign=2c45e358a85196710fedccba07808931&t=1566998630" mode="scallToFill" bindtap="test" class="button apm2"></image>
+  <image src="https://7879-xyl-1259811271.tcb.qcloud.la/apm/board3.png?sign=cd21fa126673463e4af67fa4cfa1af35&t=1566998648" mode="scallToFill" bindtap="health" class="button apm3"></image>
+</view>

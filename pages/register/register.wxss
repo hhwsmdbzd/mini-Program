@@ -1,0 +1,87 @@
+/* pages/register/register.wxss */
+
+.page {
+  line-height: 1.6;
+  margin: 10px;
+  margin-bottom: 20px;
+  padding: 10px 10px;
+  position: relative;
+  display: block;
+}
+
+.page-title {
+  color: #000;
+  font-size: 16px;
+  left: 0px;
+  top: 0px;
+}
+
+.name-input {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  height: 2.58823529em;
+  min-height: 2.58823529em;
+  line-height: 2.58823529em;
+  left: 0px;
+  top: 5px;
+}
+
+.nip {
+  top: 30px;
+  align-items: flex-start;
+}
+
+.submit-btn {
+  display: flex;
+  width: 200px;
+  height: 50px;
+  color: #000;
+  align-items: center;
+}
+
+.sex {
+  margin-left: 25rpx;
+  margin-right: 25rpx;
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+  padding: 10rpx 10rpx;
+  text-align: center;
+  align-items: center;
+  width: 100%;
+  /* display: flex;  */
+  height: 1.5em;
+  line-height: 0.5em;
+  color: rgb(0, 0, 0);
+}
+
+.active {
+  color: #1cd615;
+  text-decoration-color: #1cd615;
+}
+
+.confuse {
+  width: 130rpx;
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: row;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  margin: 2rpx;
+  padding: 2rpx 2rpx;
+  text-align: center;
+  flex-basis: 320px;
+  font-size: 14px;
+}
+
+.weui-cell {
+  padding: 16px;
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  flex-flow: row wrap;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}

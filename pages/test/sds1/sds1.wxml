@@ -1,0 +1,7 @@
+<view class="page__bd">
+  <view class="weui-article">
+    <view class="weui-article__h1">抑郁自评量表</view>
+    <view>抑郁自评量表是由美国杜克大学教授庄（William W.K.Zung）于1965-1966年开发，可以直观有效地反映被试者的主观感受，从而能采取相应的措施，现已广泛应用于心理门诊中，注意：这套量表仅用于筛查抑郁症状，让你关注到自己的精神状况并且给予关怀和寻求帮助，并不代表严格意义的医学诊断。</view>
+  </view>
+  <button bindtap="tosds2">开始测试</button>
+</view>

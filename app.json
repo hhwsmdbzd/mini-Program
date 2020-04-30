@@ -1,13 +1,42 @@
 {
   "pages": [
+    "pages/Home/Home",
+    "pages/appointment/appointment",
+    "pages/appointment/myapm/myapm",
+    "pages/register/register",
+    "pages/register/success/success",
+    "pages/test/oldText1/oldText1",
+    "pages/test/oldText2/oldText2",
+    "pages/test/oldText3/oldText3",
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/health/health",
+    "pages/logs/logs",
+    "pages/test/test",
+    "pages/health/birdcageEffect/birdcageEffect",
+    "pages/health/first/first",
+    "pages/health/brokenWindow/brokenWindow",
+    "pages/test/sds1/sds1",
+    "pages/test/sds2/sds2",
+    "pages/test/sds3/sds3"
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#000000",
-    "navigationBarTitleText": "SZU心理咨询",
+    "navigationBarBackgroundColor": "#c1eee6",
+    "navigationBarTitleText": "SZU心理辅导",
     "navigationBarTextStyle": "black",
+    "backgroundColor": "#c1eee6"
   },
+  "networkTimeout": {
+    "request": 10000,
+    "connectSocket": 10000,
+    "downloadFile": 10000
+  },
+  "plugins": {
+    "myPlugin": {
+      "version": "1.0.0",
+      "provider": "wx84472d5652384779"
+    }
+  },
+  "debug": true,
   "sitemapLocation": "sitemap.json"
 }

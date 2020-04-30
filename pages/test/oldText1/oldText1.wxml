@@ -1,0 +1,13 @@
+<image class="backgroundimg" src="https://7879-xyl-1259811271.tcb.qcloud.la/apm/oldtext_bg.png?sign=220cf2d6d4914ee657d1ce924605a337&t=1567135537"></image>
+<view class="page__bd">
+  <view class="weui-article white">
+    <view class="weui-article__h1">心理年龄测试</view>
+    <view class="weui-article__section">
+      <view class="weui-article__p">本测试共30题，请在20分钟内完成；每题3个选项：</view>
+      <view class="weui-article__p">(A) 是</view>
+      <view class="weui-article__p">(B) 介于是否之间</view>
+      <view class="weui-article__p">(C) 否</view>
+    </view>
+    <button bindtap="tooldText2">开始测试</button>
+  </view>
+</view>

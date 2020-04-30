@@ -1,0 +1,37 @@
+
+
+<view class="bgsize">
+
+  <view class="outer">
+    <view id='questions'>{{index+1}}.{{title[index]}}</view>
+
+    <view id="answers">
+      <radio-group bindchange='select'>
+        <view class="item">
+          <radio value="{{radio[0]}}" checked="{{clear}}">
+            <text decode="{{true}}">&nbsp;{{choise[index][radio[0]]}}</text>
+          </radio>
+        </view>
+
+        <view class="item">
+          <radio value="{{radio[1]}}" checked="{{clear}}">
+            <text decode="{{true}}">&nbsp;{{choise[index][radio[1]]}}</text>
+          </radio>
+        </view>
+
+        <view class="item">
+          <radio value="{{radio[2]}}" checked="{{clear}}">
+            <text decode="{{true}}">&nbsp;{{choise[index][radio[2]]}}</text>
+          </radio>
+        </view>
+
+         <view class="item">
+          <radio value="{{radio[3]}}" checked="{{clear}}">
+            <text decode="{{true}}">&nbsp;{{choise[index][radio[3]]}}</text>
+          </radio>
+        </view>
+      </radio-group>
+    </view>
+  </view>
+
+</view>

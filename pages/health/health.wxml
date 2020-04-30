@@ -1,0 +1,31 @@
+<view class="page">
+  <navigator url="/pages/health/first/first" class="list">
+    <view class="img">
+      <image style="width:100%;" src="https://7879-xyl-1259811271.tcb.qcloud.la/apm/horse.jpg?sign=13089efcbb2ec5a99b97d54d5a0e1e60&t=1567954128" mode="widthFix"></image>
+    </view>
+    <view class="content">
+      <view class="title">人类十大经典心理学效应(卷首语)</view>
+      <view class="desc"></view>
+    </view>
+  </navigator>
+
+  <navigator url="/pages/health/birdcageEffect/birdcageEffect" class="list">
+    <view class="img">
+      <image style="width:100%;" src="https://7879-xyl-1259811271.tcb.qcloud.la/apm/horse.jpg?sign=13089efcbb2ec5a99b97d54d5a0e1e60&t=1567954128" mode="widthFix"></image>
+    </view>
+    <view class="content">
+      <view class="title">（一）：鸟笼效应与罗森塔尔效应</view>
+      <view class="desc"></view>
+    </view>
+  </navigator>
+
+  <navigator url="/pages/health/brokenWindow/brokenWindow" class="list">
+    <view class="img">
+      <image style="width:100%;" src="https://7879-xyl-1259811271.tcb.qcloud.la/apm/horse.jpg?sign=13089efcbb2ec5a99b97d54d5a0e1e60&t=1567954128" mode="widthFix"></image>
+    </view>
+    <view class="content">
+      <view class="title">（二）：破窗效应与责任分散效应</view>
+      <view class="desc"></view>
+    </view>
+  </navigator>
+</view>

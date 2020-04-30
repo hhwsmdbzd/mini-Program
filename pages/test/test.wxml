@@ -1,0 +1,19 @@
+<view class="page">
+  <navigator url="/pages/test/oldText1/oldText1" class="list">
+    <view class="img">
+      <image style="width:100%;" src="https://7879-xyl-1259811271.tcb.qcloud.la/apm/oldtext_title1.jpg?sign=54572fdcf87c454d60ab4079df3c3bde&t=1567306772" mode="widthFix"></image>
+    </view>
+    <view class="content">
+      <view class="title">测测你的心理年龄</view>
+    </view>
+  </navigator>
+
+  <navigator url="/pages/test/sds1/sds1" class="list">
+    <view class="img">
+      <image style="width:100%;" src="https://7879-xyl-1259811271.tcb.qcloud.la/apm/dog.jpg?sign=199067ddd2328d0c97b3145149d55191&t=1567953340" mode="widthFix"></image>
+    </view>
+    <view class="content">
+      <view class="title white">抑郁自评量表</view>
+    </view>
+  </navigator>
+</view>

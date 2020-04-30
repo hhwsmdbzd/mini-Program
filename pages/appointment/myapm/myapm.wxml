@@ -1,0 +1,9 @@
+<view class="page__hd">
+  <view class="weui-cell">
+    <view class="weui-cell__title">已预约时间：</view>
+  </view>
+
+  <view class="weui-cell">
+    <view>{{startTimeText}}--{{endTimeText}}</view>
+  </view>
+</view>

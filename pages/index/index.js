@@ -4,7 +4,7 @@ const app = getApp()
 
 Page({
   data: {
-    motto: '欢迎进入SZU心理咨询预约小程序！',
+    motto: '',
     userInfo: {},
     hasUserInfo: false,
     canIUse: wx.canIUse('button.open-type.getUserInfo')
